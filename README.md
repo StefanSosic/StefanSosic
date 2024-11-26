@@ -22,8 +22,8 @@
 <p align="left">
 <a href="https://twitter.com/stefan_sosic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stefan_sosic" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/stefan-sosic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stefan-sosic" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sosicstefan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sosicstefan" height="30" width="40" /></a>
-<a href="/https://ssosic.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://ssosic.com/feed/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@SosicStefan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sosicstefan" height="30" width="40" /></a>
+<a href="https://ssosic.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://ssosic.com/feed/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Support:</h3>
