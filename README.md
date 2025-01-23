@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Business Central Projects**
 
-- 🤝 I’m looking for help with **Business Central Repositories**
+- 🤝 I’m looking to help with **Business Central Repositories**
 
 - 📝 I regularly write articles on [https://ssosic.com](https://ssosic.com)
 
