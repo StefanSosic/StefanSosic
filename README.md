@@ -3,9 +3,7 @@
 <h3 align="center">Microsoft MVP</h3>
 <h3 align="center">Business Central and NAV</h3>
 
-<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=StefanSosic&theme=react&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=300)](https://git.io/streak-stats)
-</div>
 
 - 🔭 I’m currently working on **Business Central Projects**
 
